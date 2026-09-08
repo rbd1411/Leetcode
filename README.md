@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rbd1411/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rbd1411/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rbd1411/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/rbd1411/Leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/rbd1411/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/rbd1411/Leetcode/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/rbd1411/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/rbd1411/Leetcode/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/rbd1411/Leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/rbd1411/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/rbd1411/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/rbd1411/Leetcode/tree/master/0217-contains-duplicate) |
 ## Backtracking
 |  |
 | ------- |
