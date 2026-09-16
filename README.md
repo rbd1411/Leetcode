@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rbd1411/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/rbd1411/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0312-burst-balloons](https://github.com/rbd1411/Leetcode/tree/master/0312-burst-balloons) |
+| [0327-count-of-range-sum](https://github.com/rbd1411/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/rbd1411/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rbd1411/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/rbd1411/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rbd1411/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rbd1411/Leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/rbd1411/Leetcode/tree/master/0268-missing-number) |
+| [0327-count-of-range-sum](https://github.com/rbd1411/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/rbd1411/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rbd1411/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/rbd1411/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/rbd1411/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rbd1411/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/rbd1411/Leetcode/tree/master/0169-majority-element) |
+| [0327-count-of-range-sum](https://github.com/rbd1411/Leetcode/tree/master/0327-count-of-range-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rbd1411/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0327-count-of-range-sum](https://github.com/rbd1411/Leetcode/tree/master/0327-count-of-range-sum) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -290,4 +294,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/rbd1411/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/rbd1411/Leetcode/tree/master/0327-count-of-range-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/rbd1411/Leetcode/tree/master/0327-count-of-range-sum) |
+## Ordered Set
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/rbd1411/Leetcode/tree/master/0327-count-of-range-sum) |
+## Treap
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/rbd1411/Leetcode/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
