@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rbd1411/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/rbd1411/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rbd1411/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3925-concatenate-array-with-reverse](https://github.com/rbd1411/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -327,4 +328,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/rbd1411/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [3925-concatenate-array-with-reverse](https://github.com/rbd1411/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
