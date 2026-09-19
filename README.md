@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/rbd1411/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/rbd1411/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1572-matrix-diagonal-sum](https://github.com/rbd1411/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rbd1411/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rbd1411/Leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/rbd1411/Leetcode/tree/master/0268-missing-number) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/rbd1411/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rbd1411/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Recursion
 |  |
 | ------- |
