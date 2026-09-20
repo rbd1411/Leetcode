@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/rbd1411/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/rbd1411/Leetcode/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/rbd1411/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/rbd1411/Leetcode/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/rbd1411/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rbd1411/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rbd1411/Leetcode/tree/master/0268-missing-number) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/rbd1411/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/rbd1411/Leetcode/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/rbd1411/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/rbd1411/Leetcode/tree/master/0127-word-ladder) |
 | [0212-word-search-ii](https://github.com/rbd1411/Leetcode/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/rbd1411/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0301-remove-invalid-parentheses](https://github.com/rbd1411/Leetcode/tree/master/0301-remove-invalid-parentheses) |
@@ -411,5 +413,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/rbd1411/Leetcode/tree/master/0127-word-ladder) |
 | [0301-remove-invalid-parentheses](https://github.com/rbd1411/Leetcode/tree/master/0301-remove-invalid-parentheses) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/rbd1411/Leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
