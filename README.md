@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/rbd1411/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0212-word-search-ii](https://github.com/rbd1411/Leetcode/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/rbd1411/Leetcode/tree/master/0214-shortest-palindrome) |
+| [0257-binary-tree-paths](https://github.com/rbd1411/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/rbd1411/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0420-strong-password-checker](https://github.com/rbd1411/Leetcode/tree/master/0420-strong-password-checker) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rbd1411/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/rbd1411/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/rbd1411/Leetcode/tree/master/0051-n-queens) |
 | [0212-word-search-ii](https://github.com/rbd1411/Leetcode/tree/master/0212-word-search-ii) |
+| [0257-binary-tree-paths](https://github.com/rbd1411/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/rbd1411/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rbd1411/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Stack
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rbd1411/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/rbd1411/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rbd1411/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/rbd1411/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Counting
 |  |
 | ------- |
@@ -423,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/rbd1411/Leetcode/tree/master/0127-word-ladder) |
+## Depth-First Search
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/rbd1411/Leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
