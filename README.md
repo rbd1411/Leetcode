@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rbd1411/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/rbd1411/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/rbd1411/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/rbd1411/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/rbd1411/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1512-number-of-good-pairs](https://github.com/rbd1411/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/rbd1411/Leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/rbd1411/Leetcode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rbd1411/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/rbd1411/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/rbd1411/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1512-number-of-good-pairs](https://github.com/rbd1411/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rbd1411/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/rbd1411/Leetcode/tree/master/3668-restore-finishing-order) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/rbd1411/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/rbd1411/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rbd1411/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/rbd1411/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rbd1411/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/rbd1411/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3838-weighted-word-mapping](https://github.com/rbd1411/Leetcode/tree/master/3838-weighted-word-mapping) |
