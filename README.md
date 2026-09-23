@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/rbd1411/Leetcode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rbd1411/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/rbd1411/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0535-encode-and-decode-tinyurl](https://github.com/rbd1411/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rbd1411/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/rbd1411/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/rbd1411/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0420-strong-password-checker](https://github.com/rbd1411/Leetcode/tree/master/0420-strong-password-checker) |
 | [0434-number-of-segments-in-a-string](https://github.com/rbd1411/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/rbd1411/Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0535-encode-and-decode-tinyurl](https://github.com/rbd1411/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rbd1411/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rbd1411/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/rbd1411/Leetcode/tree/master/0771-jewels-and-stones) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/rbd1411/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0535-encode-and-decode-tinyurl](https://github.com/rbd1411/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/rbd1411/Leetcode/tree/master/0214-shortest-palindrome) |
+| [0535-encode-and-decode-tinyurl](https://github.com/rbd1411/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 ## Manacher
 |  |
 | ------- |
