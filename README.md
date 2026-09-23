@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rbd1411/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/rbd1411/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/rbd1411/Leetcode/tree/master/3110-score-of-a-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/rbd1411/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3280-convert-date-to-binary](https://github.com/rbd1411/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/rbd1411/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/rbd1411/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/rbd1411/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/rbd1411/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rbd1411/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/rbd1411/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
 |  |
 | ------- |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/rbd1411/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/rbd1411/Leetcode/tree/master/0268-missing-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rbd1411/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/rbd1411/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Matrix
 |  |
 | ------- |
