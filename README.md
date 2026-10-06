@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/rbd1411/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/rbd1411/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/rbd1411/Leetcode/tree/master/0066-plus-one) |
+| [0089-gray-code](https://github.com/rbd1411/Leetcode/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/rbd1411/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/rbd1411/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/rbd1411/Leetcode/tree/master/0268-missing-number) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/rbd1411/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rbd1411/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/rbd1411/Leetcode/tree/master/0051-n-queens) |
+| [0089-gray-code](https://github.com/rbd1411/Leetcode/tree/master/0089-gray-code) |
 | [0212-word-search-ii](https://github.com/rbd1411/Leetcode/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/rbd1411/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/rbd1411/Leetcode/tree/master/0301-remove-invalid-parentheses) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/rbd1411/Leetcode/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/rbd1411/Leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/rbd1411/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/rbd1411/Leetcode/tree/master/0268-missing-number) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/rbd1411/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
