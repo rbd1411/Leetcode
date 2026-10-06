@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/rbd1411/Leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/rbd1411/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/rbd1411/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/rbd1411/Leetcode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rbd1411/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/rbd1411/Leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rbd1411/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/rbd1411/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/rbd1411/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/rbd1411/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/rbd1411/Leetcode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rbd1411/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rbd1411/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/rbd1411/Leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/rbd1411/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/rbd1411/Leetcode/tree/master/0268-missing-number) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/rbd1411/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/rbd1411/Leetcode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rbd1411/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rbd1411/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rbd1411/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-regions-cut-by-slashes](https://github.com/rbd1411/Leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/rbd1411/Leetcode/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/rbd1411/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/rbd1411/Leetcode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/rbd1411/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/rbd1411/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/rbd1411/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -733,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/rbd1411/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/rbd1411/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/rbd1411/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/rbd1411/Leetcode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/rbd1411/Leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/rbd1411/Leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Bidirectional Search
