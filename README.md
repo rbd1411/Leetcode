@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/rbd1411/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/rbd1411/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rbd1411/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/rbd1411/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2942-find-words-containing-character](https://github.com/rbd1411/Leetcode/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/rbd1411/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/rbd1411/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/rbd1411/Leetcode/tree/master/2418-sort-the-people) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/rbd1411/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rbd1411/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/rbd1411/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/rbd1411/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/rbd1411/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rbd1411/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/rbd1411/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/rbd1411/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2418-sort-the-people](https://github.com/rbd1411/Leetcode/tree/master/2418-sort-the-people) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/rbd1411/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2785-sort-vowels-in-a-string](https://github.com/rbd1411/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/rbd1411/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rbd1411/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -597,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rbd1411/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/rbd1411/Leetcode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2390-removing-stars-from-a-string](https://github.com/rbd1411/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/rbd1411/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3271-hash-divided-string](https://github.com/rbd1411/Leetcode/tree/master/3271-hash-divided-string) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/rbd1411/Leetcode/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3498-reverse-degree-of-a-string](https://github.com/rbd1411/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
