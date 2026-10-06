@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/rbd1411/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2418-sort-the-people](https://github.com/rbd1411/Leetcode/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rbd1411/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/rbd1411/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/rbd1411/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/rbd1411/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rbd1411/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/rbd1411/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/rbd1411/Leetcode/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rbd1411/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/rbd1411/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/rbd1411/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rbd1411/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/rbd1411/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/rbd1411/Leetcode/tree/master/0763-partition-labels) |
 | [2000-reverse-prefix-of-word](https://github.com/rbd1411/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2367-number-of-arithmetic-triplets](https://github.com/rbd1411/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/rbd1411/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3794-reverse-string-prefix](https://github.com/rbd1411/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Greedy
 |  |
