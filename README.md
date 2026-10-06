@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/rbd1411/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rbd1411/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2942-find-words-containing-character](https://github.com/rbd1411/Leetcode/tree/master/2942-find-words-containing-character) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/rbd1411/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/rbd1411/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rbd1411/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rbd1411/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/rbd1411/Leetcode/tree/master/2418-sort-the-people) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/rbd1411/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rbd1411/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/rbd1411/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rbd1411/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/rbd1411/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/rbd1411/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
