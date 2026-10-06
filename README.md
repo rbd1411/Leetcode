@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/rbd1411/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rbd1411/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/rbd1411/Leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/rbd1411/Leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/rbd1411/Leetcode/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/rbd1411/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/rbd1411/Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/rbd1411/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/rbd1411/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/rbd1411/Leetcode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/rbd1411/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/rbd1411/Leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/rbd1411/Leetcode/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/rbd1411/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -692,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/rbd1411/Leetcode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/rbd1411/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rbd1411/Leetcode/tree/master/0415-add-strings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rbd1411/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
