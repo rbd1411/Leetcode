@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rbd1411/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/rbd1411/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/rbd1411/Leetcode/tree/master/0043-multiply-strings) |
+| [0060-permutation-sequence](https://github.com/rbd1411/Leetcode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/rbd1411/Leetcode/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/rbd1411/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/rbd1411/Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/rbd1411/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/rbd1411/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/rbd1411/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0060-permutation-sequence](https://github.com/rbd1411/Leetcode/tree/master/0060-permutation-sequence) |
 ## String
 |  |
 | ------- |
