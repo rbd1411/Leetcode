@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rbd1411/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/rbd1411/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/rbd1411/Leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/rbd1411/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1512-number-of-good-pairs](https://github.com/rbd1411/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/rbd1411/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rbd1411/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/rbd1411/Leetcode/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/rbd1411/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1079-letter-tile-possibilities](https://github.com/rbd1411/Leetcode/tree/master/1079-letter-tile-possibilities) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/rbd1411/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rbd1411/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1512-number-of-good-pairs](https://github.com/rbd1411/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rbd1411/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0420-strong-password-checker](https://github.com/rbd1411/Leetcode/tree/master/0420-strong-password-checker) |
 | [0763-partition-labels](https://github.com/rbd1411/Leetcode/tree/master/0763-partition-labels) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/rbd1411/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/rbd1411/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rbd1411/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/rbd1411/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rbd1411/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
