@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/rbd1411/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/rbd1411/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/rbd1411/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rbd1411/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rbd1411/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/rbd1411/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/rbd1411/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0959-regions-cut-by-slashes](https://github.com/rbd1411/Leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/rbd1411/Leetcode/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/rbd1411/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/rbd1411/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/rbd1411/Leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/rbd1411/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/rbd1411/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0959-regions-cut-by-slashes](https://github.com/rbd1411/Leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/rbd1411/Leetcode/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/rbd1411/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1079-letter-tile-possibilities](https://github.com/rbd1411/Leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1096-brace-expansion-ii](https://github.com/rbd1411/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/rbd1411/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/rbd1411/Leetcode/tree/master/0212-word-search-ii) |
 | [0959-regions-cut-by-slashes](https://github.com/rbd1411/Leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/rbd1411/Leetcode/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/rbd1411/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1572-matrix-diagonal-sum](https://github.com/rbd1411/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/rbd1411/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/rbd1411/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
