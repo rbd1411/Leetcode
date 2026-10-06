@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/rbd1411/Leetcode/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/rbd1411/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/rbd1411/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/rbd1411/Leetcode/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1079-letter-tile-possibilities](https://github.com/rbd1411/Leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1108-defanging-an-ip-address](https://github.com/rbd1411/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rbd1411/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -562,4 +563,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/rbd1411/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Union-Find
+|  |
+| ------- |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/rbd1411/Leetcode/tree/master/1061-lexicographically-smallest-equivalent-string) |
 <!---LeetCode Topics End-->
