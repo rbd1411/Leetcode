@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/rbd1411/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rbd1411/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/rbd1411/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/rbd1411/Leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1512-number-of-good-pairs](https://github.com/rbd1411/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/rbd1411/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rbd1411/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/rbd1411/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rbd1411/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/rbd1411/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/rbd1411/Leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rbd1411/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rbd1411/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/rbd1411/Leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rbd1411/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0212-word-search-ii](https://github.com/rbd1411/Leetcode/tree/master/0212-word-search-ii) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/rbd1411/Leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 ## Sorting
 |  |
 | ------- |
@@ -573,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/rbd1411/Leetcode/tree/master/0257-binary-tree-paths) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/rbd1411/Leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/rbd1411/Leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 ## Queue
 |  |
