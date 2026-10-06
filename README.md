@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/rbd1411/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2325-decode-the-message](https://github.com/rbd1411/Leetcode/tree/master/2325-decode-the-message) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/rbd1411/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2390-removing-stars-from-a-string](https://github.com/rbd1411/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/rbd1411/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2785-sort-vowels-in-a-string](https://github.com/rbd1411/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/rbd1411/Leetcode/tree/master/2942-find-words-containing-character) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rbd1411/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2000-reverse-prefix-of-word](https://github.com/rbd1411/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/rbd1411/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2390-removing-stars-from-a-string](https://github.com/rbd1411/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/rbd1411/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rbd1411/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/rbd1411/Leetcode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
+| [2390-removing-stars-from-a-string](https://github.com/rbd1411/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3271-hash-divided-string](https://github.com/rbd1411/Leetcode/tree/master/3271-hash-divided-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/rbd1411/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/rbd1411/Leetcode/tree/master/3701-compute-alternating-sum) |
