@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rbd1411/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/rbd1411/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/rbd1411/Leetcode/tree/master/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/rbd1411/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/rbd1411/Leetcode/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/rbd1411/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0212-word-search-ii](https://github.com/rbd1411/Leetcode/tree/master/0212-word-search-ii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rbd1411/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/rbd1411/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/rbd1411/Leetcode/tree/master/0127-word-ladder) |
+| [0149-max-points-on-a-line](https://github.com/rbd1411/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/rbd1411/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rbd1411/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rbd1411/Leetcode/tree/master/0268-missing-number) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rbd1411/Leetcode/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/rbd1411/Leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/rbd1411/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/rbd1411/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/rbd1411/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/rbd1411/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/rbd1411/Leetcode/tree/master/0268-missing-number) |
@@ -681,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/rbd1411/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/rbd1411/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Binary Indexed Tree
 |  |
@@ -822,4 +826,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/rbd1411/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/rbd1411/Leetcode/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/rbd1411/Leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
