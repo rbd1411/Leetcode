@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/rbd1411/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rbd1411/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rbd1411/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1980-find-unique-binary-string](https://github.com/rbd1411/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rbd1411/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rbd1411/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/rbd1411/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rbd1411/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1512-number-of-good-pairs](https://github.com/rbd1411/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rbd1411/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1980-find-unique-binary-string](https://github.com/rbd1411/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2325-decode-the-message](https://github.com/rbd1411/Leetcode/tree/master/2325-decode-the-message) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rbd1411/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/rbd1411/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rbd1411/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1816-truncate-sentence](https://github.com/rbd1411/Leetcode/tree/master/1816-truncate-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rbd1411/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1980-find-unique-binary-string](https://github.com/rbd1411/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2000-reverse-prefix-of-word](https://github.com/rbd1411/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rbd1411/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rbd1411/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-letter-tile-possibilities](https://github.com/rbd1411/Leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rbd1411/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rbd1411/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1980-find-unique-binary-string](https://github.com/rbd1411/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/rbd1411/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/rbd1411/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
