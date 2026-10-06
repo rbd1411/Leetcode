@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/rbd1411/Leetcode/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/rbd1411/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1079-letter-tile-possibilities](https://github.com/rbd1411/Leetcode/tree/master/1079-letter-tile-possibilities) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/rbd1411/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/rbd1411/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rbd1411/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rbd1411/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rbd1411/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/rbd1411/Leetcode/tree/master/0257-binary-tree-paths) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/rbd1411/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rbd1411/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/rbd1411/Leetcode/tree/master/0257-binary-tree-paths) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/rbd1411/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Counting
 |  |
 | ------- |
@@ -534,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/rbd1411/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0535-encode-and-decode-tinyurl](https://github.com/rbd1411/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/rbd1411/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -609,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/rbd1411/Leetcode/tree/master/0127-word-ladder) |
 | [0301-remove-invalid-parentheses](https://github.com/rbd1411/Leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/rbd1411/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/rbd1411/Leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 ## Bidirectional Search
 |  |
@@ -619,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/rbd1411/Leetcode/tree/master/0257-binary-tree-paths) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/rbd1411/Leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/rbd1411/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/rbd1411/Leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 ## Queue
 |  |
