@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/rbd1411/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2367-number-of-arithmetic-triplets](https://github.com/rbd1411/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/rbd1411/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2418-sort-the-people](https://github.com/rbd1411/Leetcode/tree/master/2418-sort-the-people) |
 | [2574-left-and-right-sum-differences](https://github.com/rbd1411/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/rbd1411/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rbd1411/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rbd1411/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2325-decode-the-message](https://github.com/rbd1411/Leetcode/tree/master/2325-decode-the-message) |
 | [2367-number-of-arithmetic-triplets](https://github.com/rbd1411/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2418-sort-the-people](https://github.com/rbd1411/Leetcode/tree/master/2418-sort-the-people) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/rbd1411/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rbd1411/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rbd1411/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-construct-smallest-number-from-di-string](https://github.com/rbd1411/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2390-removing-stars-from-a-string](https://github.com/rbd1411/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/rbd1411/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2418-sort-the-people](https://github.com/rbd1411/Leetcode/tree/master/2418-sort-the-people) |
 | [2785-sort-vowels-in-a-string](https://github.com/rbd1411/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/rbd1411/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rbd1411/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/rbd1411/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/rbd1411/Leetcode/tree/master/0414-third-maximum-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rbd1411/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2418-sort-the-people](https://github.com/rbd1411/Leetcode/tree/master/2418-sort-the-people) |
 | [2785-sort-vowels-in-a-string](https://github.com/rbd1411/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rbd1411/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/rbd1411/Leetcode/tree/master/3467-transform-array-by-parity) |
