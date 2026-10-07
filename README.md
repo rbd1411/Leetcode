@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/rbd1411/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/rbd1411/Leetcode/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/rbd1411/Leetcode/tree/master/0282-expression-add-operators) |
+| [0319-bulb-switcher](https://github.com/rbd1411/Leetcode/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/rbd1411/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rbd1411/Leetcode/tree/master/0415-add-strings) |
 | [0479-largest-palindrome-product](https://github.com/rbd1411/Leetcode/tree/master/0479-largest-palindrome-product) |
@@ -983,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/rbd1411/Leetcode/tree/master/0319-bulb-switcher) |
 | [2396-strictly-palindromic-number](https://github.com/rbd1411/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Game Theory
 |  |
