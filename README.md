@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/rbd1411/Leetcode/tree/master/0319-bulb-switcher) |
 | [0343-integer-break](https://github.com/rbd1411/Leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/rbd1411/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0365-water-and-jug-problem](https://github.com/rbd1411/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0412-fizz-buzz](https://github.com/rbd1411/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rbd1411/Leetcode/tree/master/0415-add-strings) |
 | [0479-largest-palindrome-product](https://github.com/rbd1411/Leetcode/tree/master/0479-largest-palindrome-product) |
@@ -879,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/rbd1411/Leetcode/tree/master/0127-word-ladder) |
 | [0279-perfect-squares](https://github.com/rbd1411/Leetcode/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/rbd1411/Leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0365-water-and-jug-problem](https://github.com/rbd1411/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rbd1411/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0959-regions-cut-by-slashes](https://github.com/rbd1411/Leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [1096-brace-expansion-ii](https://github.com/rbd1411/Leetcode/tree/master/1096-brace-expansion-ii) |
@@ -895,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/rbd1411/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0365-water-and-jug-problem](https://github.com/rbd1411/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rbd1411/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0959-regions-cut-by-slashes](https://github.com/rbd1411/Leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/rbd1411/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -952,10 +955,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/rbd1411/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0365-water-and-jug-problem](https://github.com/rbd1411/Leetcode/tree/master/0365-water-and-jug-problem) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/rbd1411/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0365-water-and-jug-problem](https://github.com/rbd1411/Leetcode/tree/master/0365-water-and-jug-problem) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -1015,4 +1020,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/rbd1411/Leetcode/tree/master/0279-perfect-squares) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/rbd1411/Leetcode/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/rbd1411/Leetcode/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
