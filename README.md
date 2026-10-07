@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/rbd1411/Leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rbd1411/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1512-number-of-good-pairs](https://github.com/rbd1411/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/rbd1411/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1572-matrix-diagonal-sum](https://github.com/rbd1411/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1630-arithmetic-subarrays](https://github.com/rbd1411/Leetcode/tree/master/1630-arithmetic-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rbd1411/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rbd1411/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1486-xor-operation-in-an-array](https://github.com/rbd1411/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/rbd1411/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/rbd1411/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1688-count-of-matches-in-tournament](https://github.com/rbd1411/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/rbd1411/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rbd1411/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/rbd1411/Leetcode/tree/master/0763-partition-labels) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/rbd1411/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/rbd1411/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/rbd1411/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rbd1411/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/rbd1411/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/rbd1411/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -545,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/rbd1411/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rbd1411/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/rbd1411/Leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/rbd1411/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1630-arithmetic-subarrays](https://github.com/rbd1411/Leetcode/tree/master/1630-arithmetic-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rbd1411/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/rbd1411/Leetcode/tree/master/1948-delete-duplicate-folders-in-system) |
@@ -941,4 +945,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/rbd1411/Leetcode/tree/master/2396-strictly-palindromic-number) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/rbd1411/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
