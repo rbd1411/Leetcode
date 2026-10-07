@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/rbd1411/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/rbd1411/Leetcode/tree/master/0279-perfect-squares) |
 | [0312-burst-balloons](https://github.com/rbd1411/Leetcode/tree/master/0312-burst-balloons) |
+| [0343-integer-break](https://github.com/rbd1411/Leetcode/tree/master/0343-integer-break) |
 | [0410-split-array-largest-sum](https://github.com/rbd1411/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/rbd1411/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rbd1411/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/rbd1411/Leetcode/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/rbd1411/Leetcode/tree/master/0282-expression-add-operators) |
 | [0319-bulb-switcher](https://github.com/rbd1411/Leetcode/tree/master/0319-bulb-switcher) |
+| [0343-integer-break](https://github.com/rbd1411/Leetcode/tree/master/0343-integer-break) |
 | [0412-fizz-buzz](https://github.com/rbd1411/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rbd1411/Leetcode/tree/master/0415-add-strings) |
 | [0479-largest-palindrome-product](https://github.com/rbd1411/Leetcode/tree/master/0479-largest-palindrome-product) |
