@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/rbd1411/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rbd1411/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/rbd1411/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/rbd1411/Leetcode/tree/master/0279-perfect-squares) |
 | [0312-burst-balloons](https://github.com/rbd1411/Leetcode/tree/master/0312-burst-balloons) |
 | [0410-split-array-largest-sum](https://github.com/rbd1411/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/rbd1411/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/rbd1411/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/rbd1411/Leetcode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/rbd1411/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/rbd1411/Leetcode/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/rbd1411/Leetcode/tree/master/0282-expression-add-operators) |
 | [0412-fizz-buzz](https://github.com/rbd1411/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rbd1411/Leetcode/tree/master/0415-add-strings) |
@@ -869,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/rbd1411/Leetcode/tree/master/0127-word-ladder) |
+| [0279-perfect-squares](https://github.com/rbd1411/Leetcode/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/rbd1411/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rbd1411/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0959-regions-cut-by-slashes](https://github.com/rbd1411/Leetcode/tree/master/0959-regions-cut-by-slashes) |
@@ -997,4 +1000,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rbd1411/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/rbd1411/Leetcode/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/rbd1411/Leetcode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
