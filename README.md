@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/rbd1411/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/rbd1411/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rbd1411/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/rbd1411/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rbd1411/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rbd1411/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/rbd1411/Leetcode/tree/master/3467-transform-array-by-parity) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/rbd1411/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/rbd1411/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rbd1411/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/rbd1411/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/rbd1411/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rbd1411/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rbd1411/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/rbd1411/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0420-strong-password-checker](https://github.com/rbd1411/Leetcode/tree/master/0420-strong-password-checker) |
 | [0451-sort-characters-by-frequency](https://github.com/rbd1411/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/rbd1411/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -770,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/rbd1411/Leetcode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2390-removing-stars-from-a-string](https://github.com/rbd1411/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/rbd1411/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/rbd1411/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3271-hash-divided-string](https://github.com/rbd1411/Leetcode/tree/master/3271-hash-divided-string) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/rbd1411/Leetcode/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3498-reverse-degree-of-a-string](https://github.com/rbd1411/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
