@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/rbd1411/Leetcode/tree/master/0282-expression-add-operators) |
 | [0412-fizz-buzz](https://github.com/rbd1411/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rbd1411/Leetcode/tree/master/0415-add-strings) |
+| [0479-largest-palindrome-product](https://github.com/rbd1411/Leetcode/tree/master/0479-largest-palindrome-product) |
 | [0587-erect-the-fence](https://github.com/rbd1411/Leetcode/tree/master/0587-erect-the-fence) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/rbd1411/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1266-minimum-time-visiting-all-points](https://github.com/rbd1411/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -839,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rbd1411/Leetcode/tree/master/0204-count-primes) |
+| [0479-largest-palindrome-product](https://github.com/rbd1411/Leetcode/tree/master/0479-largest-palindrome-product) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/rbd1411/Leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rbd1411/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/rbd1411/Leetcode/tree/master/2014-longest-subsequence-repeated-k-times) |
