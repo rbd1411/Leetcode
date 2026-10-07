@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/rbd1411/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/rbd1411/Leetcode/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/rbd1411/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0204-count-primes](https://github.com/rbd1411/Leetcode/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/rbd1411/Leetcode/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/rbd1411/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rbd1411/Leetcode/tree/master/0268-missing-number) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/rbd1411/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/rbd1411/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/rbd1411/Leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/rbd1411/Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/rbd1411/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/rbd1411/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rbd1411/Leetcode/tree/master/0415-add-strings) |
@@ -741,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/rbd1411/Leetcode/tree/master/0204-count-primes) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/rbd1411/Leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rbd1411/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/rbd1411/Leetcode/tree/master/2014-longest-subsequence-repeated-k-times) |
@@ -845,4 +848,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/rbd1411/Leetcode/tree/master/0202-happy-number) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rbd1411/Leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rbd1411/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rbd1411/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rbd1411/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
