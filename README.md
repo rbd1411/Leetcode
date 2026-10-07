@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/rbd1411/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/rbd1411/Leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/rbd1411/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1266-minimum-time-visiting-all-points](https://github.com/rbd1411/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/rbd1411/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/rbd1411/Leetcode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rbd1411/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/rbd1411/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rbd1411/Leetcode/tree/master/0415-add-strings) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/rbd1411/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1266-minimum-time-visiting-all-points](https://github.com/rbd1411/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rbd1411/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rbd1411/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rbd1411/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/rbd1411/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/rbd1411/Leetcode/tree/master/0223-rectangle-area) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/rbd1411/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1266-minimum-time-visiting-all-points](https://github.com/rbd1411/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/rbd1411/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 ## Binary Indexed Tree
 |  |
