@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rbd1411/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1816-truncate-sentence](https://github.com/rbd1411/Leetcode/tree/master/1816-truncate-sentence) |
 | [1817-finding-the-users-active-minutes](https://github.com/rbd1411/Leetcode/tree/master/1817-finding-the-users-active-minutes) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/rbd1411/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rbd1411/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/rbd1411/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rbd1411/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rbd1411/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1486-xor-operation-in-an-array](https://github.com/rbd1411/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/rbd1411/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/rbd1411/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rbd1411/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/rbd1411/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2235-add-two-integers](https://github.com/rbd1411/Leetcode/tree/master/2235-add-two-integers) |
@@ -730,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/rbd1411/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/rbd1411/Leetcode/tree/master/0223-rectangle-area) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/rbd1411/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/rbd1411/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 ## Binary Indexed Tree
 |  |
 | ------- |
