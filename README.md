@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/rbd1411/Leetcode/tree/master/0415-add-strings) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/rbd1411/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rbd1411/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1486-xor-operation-in-an-array](https://github.com/rbd1411/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/rbd1411/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rbd1411/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/rbd1411/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/rbd1411/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/rbd1411/Leetcode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rbd1411/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1486-xor-operation-in-an-array](https://github.com/rbd1411/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rbd1411/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rbd1411/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/rbd1411/Leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
