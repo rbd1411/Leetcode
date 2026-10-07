@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rbd1411/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rbd1411/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/rbd1411/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/rbd1411/Leetcode/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rbd1411/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/rbd1411/Leetcode/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rbd1411/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3271-hash-divided-string](https://github.com/rbd1411/Leetcode/tree/master/3271-hash-divided-string) |
 | [3280-convert-date-to-binary](https://github.com/rbd1411/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/rbd1411/Leetcode/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
+| [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/rbd1411/Leetcode/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/rbd1411/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/rbd1411/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/rbd1411/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -815,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/rbd1411/Leetcode/tree/master/0062-unique-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rbd1411/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/rbd1411/Leetcode/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -931,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/rbd1411/Leetcode/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/rbd1411/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/rbd1411/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/rbd1411/Leetcode/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rbd1411/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Primality Test
 |  |
