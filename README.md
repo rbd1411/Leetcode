@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rbd1411/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/rbd1411/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2396-strictly-palindromic-number](https://github.com/rbd1411/Leetcode/tree/master/2396-strictly-palindromic-number) |
+| [2413-smallest-even-multiple](https://github.com/rbd1411/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rbd1411/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2469-convert-the-temperature](https://github.com/rbd1411/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/rbd1411/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
@@ -885,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/rbd1411/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/rbd1411/Leetcode/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/rbd1411/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/rbd1411/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rbd1411/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Primality Test
