@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rbd1411/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1486-xor-operation-in-an-array](https://github.com/rbd1411/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/rbd1411/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1688-count-of-matches-in-tournament](https://github.com/rbd1411/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/rbd1411/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rbd1411/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/rbd1411/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -767,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/rbd1411/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/rbd1411/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rbd1411/Leetcode/tree/master/0415-add-strings) |
+| [1688-count-of-matches-in-tournament](https://github.com/rbd1411/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rbd1411/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/rbd1411/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rbd1411/Leetcode/tree/master/1929-concatenation-of-array) |
