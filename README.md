@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/rbd1411/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rbd1411/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/rbd1411/Leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/rbd1411/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0096-unique-binary-search-trees](https://github.com/rbd1411/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/rbd1411/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rbd1411/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rbd1411/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/rbd1411/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/rbd1411/Leetcode/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/rbd1411/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/rbd1411/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/rbd1411/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rbd1411/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -711,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/rbd1411/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/rbd1411/Leetcode/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/rbd1411/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0212-word-search-ii](https://github.com/rbd1411/Leetcode/tree/master/0212-word-search-ii) |
 | [0959-regions-cut-by-slashes](https://github.com/rbd1411/Leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/rbd1411/Leetcode/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
