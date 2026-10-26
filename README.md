@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1641-count-sorted-vowel-strings](https://github.com/rbd1411/Leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [1668-maximum-repeating-substring](https://github.com/rbd1411/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/rbd1411/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rbd1411/Leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/rbd1411/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/rbd1411/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/rbd1411/Leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/rbd1411/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rbd1411/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/rbd1411/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rbd1411/Leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2942-find-words-containing-character](https://github.com/rbd1411/Leetcode/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/rbd1411/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/rbd1411/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/rbd1411/Leetcode/tree/master/2418-sort-the-people) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/rbd1411/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2785-sort-vowels-in-a-string](https://github.com/rbd1411/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rbd1411/Leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2942-find-words-containing-character](https://github.com/rbd1411/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rbd1411/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3110-score-of-a-string](https://github.com/rbd1411/Leetcode/tree/master/3110-score-of-a-string) |
@@ -600,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/rbd1411/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/rbd1411/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2405-optimal-partition-of-string](https://github.com/rbd1411/Leetcode/tree/master/2405-optimal-partition-of-string) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rbd1411/Leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rbd1411/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Trie
 |  |
