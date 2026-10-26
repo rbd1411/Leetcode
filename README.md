@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3699-number-of-zigzag-arrays-i](https://github.com/rbd1411/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/rbd1411/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/rbd1411/Leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/rbd1411/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/rbd1411/Leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rbd1411/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/rbd1411/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/rbd1411/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/rbd1411/Leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Matrix
 |  |
@@ -918,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2014-longest-subsequence-repeated-k-times](https://github.com/rbd1411/Leetcode/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2367-number-of-arithmetic-triplets](https://github.com/rbd1411/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/rbd1411/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/rbd1411/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/rbd1411/Leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Rolling Hash
 |  |
