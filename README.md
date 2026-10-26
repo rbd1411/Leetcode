@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/rbd1411/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rbd1411/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/rbd1411/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0131-palindrome-partitioning](https://github.com/rbd1411/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/rbd1411/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0233-number-of-digit-one](https://github.com/rbd1411/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rbd1411/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/rbd1411/Leetcode/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/rbd1411/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/rbd1411/Leetcode/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/rbd1411/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0166-fraction-to-recurring-decimal](https://github.com/rbd1411/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/rbd1411/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/rbd1411/Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/rbd1411/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/rbd1411/Leetcode/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/rbd1411/Leetcode/tree/master/0089-gray-code) |
+| [0131-palindrome-partitioning](https://github.com/rbd1411/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/rbd1411/Leetcode/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/rbd1411/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/rbd1411/Leetcode/tree/master/0282-expression-add-operators) |
