@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/rbd1411/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/rbd1411/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rbd1411/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/rbd1411/Leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1641-count-sorted-vowel-strings](https://github.com/rbd1411/Leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/rbd1411/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/rbd1411/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/rbd1411/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rbd1411/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rbd1411/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/rbd1411/Leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1641-count-sorted-vowel-strings](https://github.com/rbd1411/Leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [1688-count-of-matches-in-tournament](https://github.com/rbd1411/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/rbd1411/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/rbd1411/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/rbd1411/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0894-all-possible-full-binary-trees](https://github.com/rbd1411/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/rbd1411/Leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## String
 |  |
 | ------- |
@@ -713,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rbd1411/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rbd1411/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1486-xor-operation-in-an-array](https://github.com/rbd1411/Leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/rbd1411/Leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rbd1411/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rbd1411/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/rbd1411/Leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -1021,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/rbd1411/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0894-all-possible-full-binary-trees](https://github.com/rbd1411/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rbd1411/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/rbd1411/Leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Brainteaser
 |  |
 | ------- |
