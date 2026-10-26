@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rbd1411/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/rbd1411/Leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1641-count-sorted-vowel-strings](https://github.com/rbd1411/Leetcode/tree/master/1641-count-sorted-vowel-strings) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/rbd1411/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/rbd1411/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/rbd1411/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/rbd1411/Leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/rbd1411/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/rbd1411/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rbd1411/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/rbd1411/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/rbd1411/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/rbd1411/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/rbd1411/Leetcode/tree/master/2235-add-two-integers) |
