@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/rbd1411/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0894-all-possible-full-binary-trees](https://github.com/rbd1411/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/rbd1411/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/rbd1411/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rbd1411/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/rbd1411/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/rbd1411/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/rbd1411/Leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/rbd1411/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1266-minimum-time-visiting-all-points](https://github.com/rbd1411/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/rbd1411/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/rbd1411/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/rbd1411/Leetcode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rbd1411/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -725,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-regions-cut-by-slashes](https://github.com/rbd1411/Leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/rbd1411/Leetcode/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/rbd1411/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/rbd1411/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/rbd1411/Leetcode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/rbd1411/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/rbd1411/Leetcode/tree/master/1672-richest-customer-wealth) |
