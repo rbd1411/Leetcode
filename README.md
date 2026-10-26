@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/rbd1411/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rbd1411/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/rbd1411/Leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [1638-count-substrings-that-differ-by-one-character](https://github.com/rbd1411/Leetcode/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1641-count-sorted-vowel-strings](https://github.com/rbd1411/Leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [1668-maximum-repeating-substring](https://github.com/rbd1411/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/rbd1411/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/rbd1411/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1630-arithmetic-subarrays](https://github.com/rbd1411/Leetcode/tree/master/1630-arithmetic-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rbd1411/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1638-count-substrings-that-differ-by-one-character](https://github.com/rbd1411/Leetcode/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1656-design-an-ordered-stream](https://github.com/rbd1411/Leetcode/tree/master/1656-design-an-ordered-stream) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rbd1411/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/rbd1411/Leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rbd1411/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/rbd1411/Leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/rbd1411/Leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
+| [1638-count-substrings-that-differ-by-one-character](https://github.com/rbd1411/Leetcode/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rbd1411/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1668-maximum-repeating-substring](https://github.com/rbd1411/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1678-goal-parser-interpretation](https://github.com/rbd1411/Leetcode/tree/master/1678-goal-parser-interpretation) |
@@ -923,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/rbd1411/Leetcode/tree/master/0204-count-primes) |
 | [0479-largest-palindrome-product](https://github.com/rbd1411/Leetcode/tree/master/0479-largest-palindrome-product) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/rbd1411/Leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
+| [1638-count-substrings-that-differ-by-one-character](https://github.com/rbd1411/Leetcode/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rbd1411/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/rbd1411/Leetcode/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2367-number-of-arithmetic-triplets](https://github.com/rbd1411/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
