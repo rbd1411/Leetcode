@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0773-sliding-puzzle](https://github.com/rbd1411/Leetcode/tree/master/0773-sliding-puzzle) |
 | [0877-stone-game](https://github.com/rbd1411/Leetcode/tree/master/0877-stone-game) |
 | [0894-all-possible-full-binary-trees](https://github.com/rbd1411/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/rbd1411/Leetcode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1043-partition-array-for-maximum-sum](https://github.com/rbd1411/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1105-filling-bookcase-shelves](https://github.com/rbd1411/Leetcode/tree/master/1105-filling-bookcase-shelves) |
 | [1140-stone-game-ii](https://github.com/rbd1411/Leetcode/tree/master/1140-stone-game-ii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rbd1411/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0890-find-and-replace-pattern](https://github.com/rbd1411/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0959-regions-cut-by-slashes](https://github.com/rbd1411/Leetcode/tree/master/0959-regions-cut-by-slashes) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/rbd1411/Leetcode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1043-partition-array-for-maximum-sum](https://github.com/rbd1411/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/rbd1411/Leetcode/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/rbd1411/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
@@ -1133,6 +1135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0587-erect-the-fence](https://github.com/rbd1411/Leetcode/tree/master/0587-erect-the-fence) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/rbd1411/Leetcode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 ## Fermat's Little Theorem
 |  |
 | ------- |
@@ -1199,4 +1202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/rbd1411/Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
+## Triangulation
+|  |
+| ------- |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/rbd1411/Leetcode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 <!---LeetCode Topics End-->
