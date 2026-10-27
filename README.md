@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/rbd1411/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rbd1411/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1387-sort-integers-by-the-power-value](https://github.com/rbd1411/Leetcode/tree/master/1387-sort-integers-by-the-power-value) |
+| [1395-count-number-of-teams](https://github.com/rbd1411/Leetcode/tree/master/1395-count-number-of-teams) |
 | [1402-reducing-dishes](https://github.com/rbd1411/Leetcode/tree/master/1402-reducing-dishes) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/rbd1411/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1463-cherry-pickup-ii](https://github.com/rbd1411/Leetcode/tree/master/1463-cherry-pickup-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/rbd1411/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/rbd1411/Leetcode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rbd1411/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1395-count-number-of-teams](https://github.com/rbd1411/Leetcode/tree/master/1395-count-number-of-teams) |
 | [1402-reducing-dishes](https://github.com/rbd1411/Leetcode/tree/master/1402-reducing-dishes) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/rbd1411/Leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rbd1411/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -894,10 +896,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/rbd1411/Leetcode/tree/master/0327-count-of-range-sum) |
+| [1395-count-number-of-teams](https://github.com/rbd1411/Leetcode/tree/master/1395-count-number-of-teams) |
 ## Segment Tree
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/rbd1411/Leetcode/tree/master/0327-count-of-range-sum) |
+| [1395-count-number-of-teams](https://github.com/rbd1411/Leetcode/tree/master/1395-count-number-of-teams) |
 ## Ordered Set
 |  |
 | ------- |
