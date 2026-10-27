@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/rbd1411/Leetcode/tree/master/0877-stone-game) |
 | [0894-all-possible-full-binary-trees](https://github.com/rbd1411/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [1043-partition-array-for-maximum-sum](https://github.com/rbd1411/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
+| [1105-filling-bookcase-shelves](https://github.com/rbd1411/Leetcode/tree/master/1105-filling-bookcase-shelves) |
 | [1140-stone-game-ii](https://github.com/rbd1411/Leetcode/tree/master/1140-stone-game-ii) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/rbd1411/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/rbd1411/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/rbd1411/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/rbd1411/Leetcode/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/rbd1411/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1105-filling-bookcase-shelves](https://github.com/rbd1411/Leetcode/tree/master/1105-filling-bookcase-shelves) |
 | [1140-stone-game-ii](https://github.com/rbd1411/Leetcode/tree/master/1140-stone-game-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/rbd1411/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/rbd1411/Leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
