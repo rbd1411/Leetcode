@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/rbd1411/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1630-arithmetic-subarrays](https://github.com/rbd1411/Leetcode/tree/master/1630-arithmetic-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rbd1411/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/rbd1411/Leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1656-design-an-ordered-stream](https://github.com/rbd1411/Leetcode/tree/master/1656-design-an-ordered-stream) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rbd1411/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/rbd1411/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -680,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rbd1411/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1630-arithmetic-subarrays](https://github.com/rbd1411/Leetcode/tree/master/1630-arithmetic-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rbd1411/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/rbd1411/Leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/rbd1411/Leetcode/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rbd1411/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/rbd1411/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
