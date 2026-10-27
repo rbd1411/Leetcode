@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rbd1411/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/rbd1411/Leetcode/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1641-count-sorted-vowel-strings](https://github.com/rbd1411/Leetcode/tree/master/1641-count-sorted-vowel-strings) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/rbd1411/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1668-maximum-repeating-substring](https://github.com/rbd1411/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rbd1411/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/rbd1411/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/rbd1411/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/rbd1411/Leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/rbd1411/Leetcode/tree/master/1638-count-substrings-that-differ-by-one-character) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/rbd1411/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rbd1411/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1668-maximum-repeating-substring](https://github.com/rbd1411/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1678-goal-parser-interpretation](https://github.com/rbd1411/Leetcode/tree/master/1678-goal-parser-interpretation) |
@@ -721,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/rbd1411/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rbd1411/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1504-count-submatrices-with-all-ones](https://github.com/rbd1411/Leetcode/tree/master/1504-count-submatrices-with-all-ones) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/rbd1411/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rbd1411/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/rbd1411/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/rbd1411/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
