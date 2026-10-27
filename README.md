@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/rbd1411/Leetcode/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rbd1411/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rbd1411/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/rbd1411/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/rbd1411/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/rbd1411/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/rbd1411/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
@@ -686,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rbd1411/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/rbd1411/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2418-sort-the-people](https://github.com/rbd1411/Leetcode/tree/master/2418-sort-the-people) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/rbd1411/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2785-sort-vowels-in-a-string](https://github.com/rbd1411/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rbd1411/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rbd1411/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -828,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/rbd1411/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/rbd1411/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/rbd1411/Leetcode/tree/master/2304-minimum-path-cost-in-a-grid) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/rbd1411/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2965-find-missing-and-repeated-values](https://github.com/rbd1411/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rbd1411/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Algorithm X
