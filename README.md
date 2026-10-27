@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/rbd1411/Leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rbd1411/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1463-cherry-pickup-ii](https://github.com/rbd1411/Leetcode/tree/master/1463-cherry-pickup-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rbd1411/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1504-count-submatrices-with-all-ones](https://github.com/rbd1411/Leetcode/tree/master/1504-count-submatrices-with-all-ones) |
 | [1512-number-of-good-pairs](https://github.com/rbd1411/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rbd1411/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-sort-integers-by-the-power-value](https://github.com/rbd1411/Leetcode/tree/master/1387-sort-integers-by-the-power-value) |
 | [1402-reducing-dishes](https://github.com/rbd1411/Leetcode/tree/master/1402-reducing-dishes) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/rbd1411/Leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rbd1411/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rbd1411/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1630-arithmetic-subarrays](https://github.com/rbd1411/Leetcode/tree/master/1630-arithmetic-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rbd1411/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/rbd1411/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0420-strong-password-checker](https://github.com/rbd1411/Leetcode/tree/master/0420-strong-password-checker) |
 | [0451-sort-characters-by-frequency](https://github.com/rbd1411/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rbd1411/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/rbd1411/Leetcode/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/rbd1411/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
