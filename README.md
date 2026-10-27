@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/rbd1411/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1105-filling-bookcase-shelves](https://github.com/rbd1411/Leetcode/tree/master/1105-filling-bookcase-shelves) |
 | [1140-stone-game-ii](https://github.com/rbd1411/Leetcode/tree/master/1140-stone-game-ii) |
+| [1227-airplane-seat-assignment-probability](https://github.com/rbd1411/Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/rbd1411/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/rbd1411/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rbd1411/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0587-erect-the-fence](https://github.com/rbd1411/Leetcode/tree/master/0587-erect-the-fence) |
 | [0877-stone-game](https://github.com/rbd1411/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rbd1411/Leetcode/tree/master/1140-stone-game-ii) |
+| [1227-airplane-seat-assignment-probability](https://github.com/rbd1411/Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/rbd1411/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1266-minimum-time-visiting-all-points](https://github.com/rbd1411/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rbd1411/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -1115,6 +1117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/rbd1411/Leetcode/tree/master/0319-bulb-switcher) |
+| [1227-airplane-seat-assignment-probability](https://github.com/rbd1411/Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [2396-strictly-palindromic-number](https://github.com/rbd1411/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Game Theory
 |  |
@@ -1192,4 +1195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0773-sliding-puzzle](https://github.com/rbd1411/Leetcode/tree/master/0773-sliding-puzzle) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/rbd1411/Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
