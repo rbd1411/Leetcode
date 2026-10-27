@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1668-maximum-repeating-substring](https://github.com/rbd1411/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rbd1411/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/rbd1411/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/rbd1411/Leetcode/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2305-fair-distribution-of-cookies](https://github.com/rbd1411/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rbd1411/Leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/rbd1411/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/rbd1411/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/rbd1411/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/rbd1411/Leetcode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/rbd1411/Leetcode/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2305-fair-distribution-of-cookies](https://github.com/rbd1411/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2367-number-of-arithmetic-triplets](https://github.com/rbd1411/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/rbd1411/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
@@ -802,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/rbd1411/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/rbd1411/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/rbd1411/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/rbd1411/Leetcode/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/rbd1411/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rbd1411/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Algorithm X
